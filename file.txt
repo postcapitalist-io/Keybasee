@@ -1,0 +1,79 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am postcapitalist-io on github.
+  * I am postcapitalist (https://keybase.io/postcapitalist) on keybase.
+  * I have a public key whose fingerprint is B3B8 1B80 BDC6 FF2F 2697  E49A CBFD CD0D 9180 878B
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101dfd5ec00763afc35897642a291808128b0576d6eea626c738a6bdee0e5b42a3a0a",
+      "fingerprint": "b3b81b80bdc6ff2f2697e49acbfdcd0d9180878b",
+      "host": "keybase.io",
+      "key_id": "cbfdcd0d9180878b",
+      "kid": "0101dfd5ec00763afc35897642a291808128b0576d6eea626c738a6bdee0e5b42a3a0a",
+      "uid": "64fae779d22906231f85341ae11cb619",
+      "username": "postcapitalist"
+    },
+    "service": {
+      "name": "github",
+      "username": "postcapitalist-io"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1648050673,
+  "expire_in": 157680000,
+  "prev": "c91a1a515a15d4c7c1bbc3a87fe98f6342a31ef16f9225f2eff20023ad5fdc0c",
+  "seqno": 3,
+  "tag": "signature"
+}
+```
+
+with the key [B3B8 1B80 BDC6 FF2F 2697  E49A CBFD CD0D 9180 878B](https://keybase.io/postcapitalist), yielding the signature:
+
+```
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIYAnicrVJdSBVBGL1mmb+QEGJQD65gISozu3dnd28PllhgSJllaUS3mZ1Z3fTu
+vd0ff69mkWYqKPSUgr5EUGEhmqmZmBZJghJCEQjSD5SEpJBEgtCs2Fv01LwMM985
+Z8535nuREOmIjej6NLP79tjp+YiZ5z0hBzl4eLVOIF5aI7jqhHK2ubEKygJBd7lJ
+BZcAIIDUoDLTAVCQhA1dklVNQU4RixpUgQpFlQBZQRQxhpGIdEVSMSKUMcBkwmES
+BljIEAzTKmV+n9+0glyWSESFRAWE6sgwRENEmsKcGtaJQXUK6Ka0ohJOLPMGbAY3
+R3CAZZlefscP7k17f8H/Z9+hTTnkNDBTFI2KogaQKEFDlSUnxAxCnSCo2cAA81vY
+wzjaxy3r2GcGcYXJzddnCLxWaerMjncLU2oGy0LkX7xM3iqnBmt8dq2KEfeWipuY
+FuVxcnIl8wdMryW4IEfqQdOWgcipAhkgRcoQWLXP9DO3aSN4syrgK0Pw+VmlHZ4G
+McQylDGUqVNXdEiILmFVMZimGkiyQ4DMgMjQRFE2RMZ/CgBRwlTmqQNdsPu6bHkF
+F38piEu5ZMAstXAw5GdC/eTE+e2OiFhH1I5t9pg5YmN2/Rm+7sxoR2PLOV9/TF9n
+csOxpyORwrNWayluxBOuuvVWbMrbWxu1b8MTP9360/NgIa0v92ry5yfj+fUbNLHx
+/f28xM4+qbA2K+V7rvTqXdUsrp7Jd88/Kux/c3S5aFFJOXBjYOfcWNqe1w0f165V
+FqxeaJ5qbLmXP9AxOpqUXzE+1J5d82spPCzGX6lZr2pz9ZwtcqyE0x03U9umirvW
+X8rVqHvwjOdbyV3W2zQ3lxaYjqZTxYMTHzouWb05oVwL3mmvcyUf0sCpcHPcmiv8
+cGF/5pAQN3qyfXIlId2f6S25XnAiNWdg9oea/SVpeCJheeDi4sz6EQ1FV3zN1o8/
+XhpdzZZ+A7DWRKw=
+=d9S9
+-----END PGP MESSAGE-----
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/postcapitalist
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id postcapitalist
+```
